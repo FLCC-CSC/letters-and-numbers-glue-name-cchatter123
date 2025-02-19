@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Oliver Doty
+# DATE: 2/18/2025
+# BRIEF DESCRIPTION:  Getting two inputs and printing them out in a line
 
 
 
@@ -17,15 +17,16 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+print("Enter first name: ", end = "")
+first = input()
+print("Enter last name: ", end = "")
+last = input()
+print("Hi, " + first + " " + last)
+   
+   
+   
+   
+   
 ########### END YER CODE ABOVE THIS LINE ###########
 
 
@@ -77,7 +78,7 @@ Hi, Lisa Simpson, esquire
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
 
-
+how to gather inputs in python
 
 
 
